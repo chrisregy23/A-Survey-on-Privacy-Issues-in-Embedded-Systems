@@ -1,5 +1,7 @@
 # A Survey on Privacy Issues in Embedded Systems
 
+This project delves into the growing concerns surrounding privacy and security in embedded systems, which are increasingly prevalent in critical infrastructure and everyday devices. It provides a comprehensive analysis of the threats and vulnerabilities faced by embedded systems, along with modern solutions to enhance privacy and security. The project also explores the architecture of embedded systems, classifies common attacks, and offers practical recommendations for improving security. By the end of this survey, participants will have a deep understanding of the challenges and solutions in securing embedded systems, particularly in smart home and wearable device environments.
+
 ## Key Features
 - **Comprehensive Analysis**: Explores various privacy issues in embedded systems, including threats, vulnerabilities, and solutions.
 - **Market Growth Insights**: Discusses the rise of the embedded systems market and its future growth projections.
